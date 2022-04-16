@@ -2,7 +2,7 @@ import React from "react";
 import "./portifolio.css";
 
 const Portifolio = () => {
-  return <div>Portifolio Page</div>;
+  return <section id="portifolio">Portifolio Page</section>;
 };
 
 export default Portifolio;
