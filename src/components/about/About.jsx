@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 
 const About = () => {
-  return <div></div>;
+  return <div>About Page</div>;
 };
 
 export default About;
